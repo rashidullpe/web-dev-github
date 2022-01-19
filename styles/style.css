@@ -1,0 +1,41 @@
+
+main {
+    width: 400px;
+    margin: 200px auto 72px auto;
+    background-color: rgb(200,180, 90);
+    padding: 24px;
+    border: 5px solid rgb(44, 44, 44);
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(135, 1, 78,0.5);
+}
+h1 {
+    font-family: 'Roboto';
+    font-size: 15px;
+    
+}
+span{
+    color: saddlebrown;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    color:red;
+    
+    
+}
+a{
+    color: rgb(135, 1, 78);
+    text-decoration: none;
+    font-family: 'Fira Sans';
+    font-size: 20px;
+}
+a:hover{
+    text-decoration: underline;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-top: -130px;
+    border: 1px solid royalblue;
+}
